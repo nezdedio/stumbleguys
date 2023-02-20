@@ -32,8 +32,8 @@
 
             "iron_source_key": "",
 
-            "diamond": "https://raw.githubusercontent.com/nezdedio/rbx-poppa/main/rbx-poppy/Nouveau%20dossier/r.png",
-            "cover": "https://raw.githubusercontent.com/nezdedio/rbx-poppa/main/rbx-poppy/Nouveau%20dossier/cou.png",
+            "diamond": "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/diamo.png",
+            "cover": "https://seeklogo.com/images/S/stumble-guys-logo-E3E4BE536E-seeklogo.com.png",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
@@ -109,11 +109,11 @@
         {
             "images" :
             [
-                { "image" : "https://i.quotev.com/ni63wy6edkva.jpg" },
-                { "image" : "https://i.quotev.com/g5qasdlb3ddq.jpg" },
-                { "image" : "https://i.quotev.com/6b735o2xigca.jpg" },
-                { "image" : "https://i.quotev.com/tl2gy3ok3zwa.jpg" },
-                { "image" : "https://i.quotev.com/enuv4jhvydrq.jpg" },
+                { "image" : "https://cdn.akamai.steamstatic.com/steam/apps/1677740/ss_39dd63c1ac25fe267021845e5374da17c9455393.1920x1080.jpg?t=1650527635" },
+                { "image" : "https://c.tenor.com/SBj5aYuNpAUAAAAC/arunraj-stumble-guys.gif" },
+                { "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1677740/ss_2a10d8f0b09d3ef56538e254c8ad2a783b30f39a.1920x1080.jpg?t=1650527635" },
+                { "image" : "ttps://c.tenor.com/u9exTGy3NcgAAAAC/stumble-guys-honey-drop.gif" },
+                { "image" : "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/02/1177498885.png" },
                 { "image" : "https://i.quotev.com/nmk7j5mjtdla.jpg" },
                 { "image" : "https://i.quotev.com/qn4k3m4vgr5a.jpg" },
                 { "image" : "https://i.quotev.com/yq67tsyngxxa.jpg" },
@@ -155,42 +155,42 @@
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/rbx-poppa/main/rbx-poppy/Nouveau%20dossier/1.png",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
             "bg" : "#FBBF24"
         },{
             "active" : "true",
             "name" : "spinner",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/rbx-poppa/main/rbx-poppy/Nouveau%20dossier/2.png",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
             "bg" : "#A3E635"
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/rbx-poppa/main/rbx-poppy/Nouveau%20dossier/3.png",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
             "bg" : "#38BDF8"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "questions",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/rbx-poppa/main/rbx-poppy/Nouveau%20dossier/4.png",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },{
             "active" : "true",
             "name" : "quiz",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/rbx-poppa/main/rbx-poppy/Nouveau%20dossier/5.png",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/rbx-poppa/main/rbx-poppy/Nouveau%20dossier/6.png",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "more",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/uogg/main/7.png",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/handshake-heart.png",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
             "name" : "games",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/rbx-poppa/main/rbx-poppy/Nouveau%20dossier/8.png",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
             "bg" : "#673AB7"
         }
     ],
@@ -274,43 +274,43 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : "https://i.quotev.com/ni63wy6edkva.jpg"
+            "img" : "https://static.gameloop.com/syzs_cms/202205/5035ba8cb44bef82574246a7068b72f2.jpeg?imageMogr2/thumbnail/412x675/format/webp"
         },
         {
             "name" : "",
-            "img" : "https://i.quotev.com/g5qasdlb3ddq.jpg"
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/temporada-2-de-fall-guys-6435.jpg"
         },
         {
             "name" : "",
-            "img" : "https://i.quotev.com/6b735o2xigca.jpg"
+            "img" : "https://i.pinimg.com/originals/79/e9/9f/79e99f9248326b26915b30efd53f1a4d.jpg"
         },
         {
             "name" : "",
-            "img" : "https://i.quotev.com/tl2gy3ok3zwa.jpg"
+            "img" : "https://wallpapercave.com/wp/wp10366312.jpg"
         },
         {
             "name" : "",
-            "img" : "https://i.quotev.com/enuv4jhvydrq.jpg"
+            "img" : "https://i.pinimg.com/originals/a9/ef/55/a9ef55219afb7bc0bfd601e4716dfb26.jpg"
         },
         {
             "name" : "",
-            "img" : "https://i.quotev.com/nmk7j5mjtdla.jpg"
+            "img" : "https://pbs.twimg.com/media/EnQ9Y0rW8AE7poC.jpg:large"
         },
         {
             "name" : "",
-            "img" : "https://i.quotev.com/qn4k3m4vgr5a.jpg"
+            "img" : "https://mfiles.alphacoders.com/961/thumb-1920-961986.jpg"
         },
         {
             "name" : "",
-            "img" : "https://i.quotev.com/yq67tsyngxxa.jpg"
+            "img" : "https://indwallpapers.com/wp-content/uploads/2021/02/Wallpaper-Fall-Guys.jpg"
         },
         {
             "name" : "",
-            "img" : "https://i.quotev.com/tl2gy3ok3zwa.jpg"
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-ultimate-knockout-2020-6801.jpg"
         },
         {
             "name" : "",
-            "img" : "https://i.quotev.com/ni63wy6edkva.jpg"
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-2020-6809.jpg"
         }
     ],
     
