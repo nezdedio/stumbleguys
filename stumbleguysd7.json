@@ -33,7 +33,7 @@
             "iron_source_key": "",
 
             "diamond": "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/diamo.png",
-            "cover": "https://www.yad.com/games/Stumble-Guys/adapter/logo.png",
+            "cover": "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/kk.png",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
@@ -165,7 +165,7 @@
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/Nouveau%20dossier/3.png",
+            "ico" : "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/Nouveau%20dossier/33.png",
             "bg" : "#38BDF8"
         },{
             "active" : "true",
