@@ -178,7 +178,7 @@
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
@@ -274,43 +274,43 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : "https://static.gameloop.com/syzs_cms/202205/5035ba8cb44bef82574246a7068b72f2.jpeg?imageMogr2/thumbnail/412x675/format/webp"
+            "img" : "https://i.pinimg.com/564x/d4/06/fb/d406fb8b4dd19d2400877921eedb3c2b.jpg"
         },
         {
             "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/temporada-2-de-fall-guys-6435.jpg"
+            "img" : "https://i.pinimg.com/originals/4a/28/12/4a2812d85208576bf4c1ef51aabc7c44.gif"
         },
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/originals/79/e9/9f/79e99f9248326b26915b30efd53f1a4d.jpg"
+            "img" : "https://i.pinimg.com/originals/5a/1a/71/5a1a71732e7db257f4e437e9286b15c4.gif"
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/wp/wp10366312.jpg"
+            "img" : "https://i.pinimg.com/originals/26/ae/cc/26aecce5396c39c3eee985391df006d4.gif"
         },
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/originals/a9/ef/55/a9ef55219afb7bc0bfd601e4716dfb26.jpg"
+            "img" : "https://i.pinimg.com/originals/cf/40/b3/cf40b3f5220f3e858635165b26723c1b.gif"
         },
         {
             "name" : "",
-            "img" : "https://pbs.twimg.com/media/EnQ9Y0rW8AE7poC.jpg:large"
+            "img" : "https://i.pinimg.com/564x/42/94/df/4294df8deb9fd3cc2623e2e1d03aa44a.jpg"
         },
         {
             "name" : "",
-            "img" : "https://mfiles.alphacoders.com/961/thumb-1920-961986.jpg"
+            "img" : "https://i.pinimg.com/564x/58/ca/85/58ca8565df22602e5829fd9927fcc658.jpg"
         },
         {
             "name" : "",
-            "img" : "https://indwallpapers.com/wp-content/uploads/2021/02/Wallpaper-Fall-Guys.jpg"
+            "img" : "https://i.pinimg.com/564x/57/b3/5c/57b35c4192655813982ecc5ec984e294.jpg"
         },
         {
             "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-ultimate-knockout-2020-6801.jpg"
+            "img" : "https://i.pinimg.com/564x/f3/29/61/f32961e4084297823dd2d4b19353abb8.jpg"
         },
         {
             "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-2020-6809.jpg"
+            "img" : "https://i.pinimg.com/564x/f6/2f/a8/f62fa8a6beb492587cfcd7027962fbf0.jpg"
         }
     ],
     
