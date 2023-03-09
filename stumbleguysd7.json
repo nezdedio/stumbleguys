@@ -188,7 +188,7 @@
             "ico" : "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/Nouveau%20dossier/7.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "games",
             "ico" : "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/Nouveau%20dossier/8.png",
             "bg" : "#673AB7"
@@ -229,28 +229,10 @@
     ],
     
     "games" : [
-        {
-            "name" : "CHAPTER 3",
-            "ico" : "https://i.pinimg.com/originals/6c/3b/76/6c3b76c8222fadb870334215638ddd18.jpg",
-            "link" : "https://yandex.com/games/app/192490?utm_source=yandex&utm_medium=com&utm_campaign=morda#app-id=192490&catalog-session-uid=catalog-16cb0407-7a17-57ac-bde8-e7bcdd1581cb-1673482397201-f628&rtx-reqid=10980411383013247026&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
-            "cat" : "Overall",
-            "orientation" : "0"
-        },{
-            "name" : "CHAPTER 2",
-            "ico" : "https://i.pinimg.com/564x/3d/2a/03/3d2a03b6d015896b237804df73e641e5.jpg",
-            "link" : "https://yandex.com/games/app/192536?utm_source=yandex&utm_medium=com&utm_campaign=morda#app-id=192536&catalog-session-uid=catalog-16cb0407-7a17-57ac-bde8-e7bcdd1581cb-1673482397201-f628&rtx-reqid=10980411383013247026&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
-            "cat" : "Strategies",
-            "orientation" : "0"
-        },{
-            "name" : "CHAPTER 1",
-            "ico" : "https://i.pinimg.com/564x/bc/6d/dc/bc6ddca32a7ba5f4e0de414d0824457a.jpg",
-            "link" : "https://www.y8.com/games/it_s_playtime_they_are_coming/mobile",
-            "cat" : "Soccer",
-            "orientation" : "1"
-        },{
-            "name" : "CHAPTER 0",
-            "ico" : "https://i.pinimg.com/564x/85/d0/72/85d0726cc2b7d4f60243231915790edc.jpg",
-            "link" : "https://www.agame.com/game/poppy-huggie-escape",
+  {
+            "name" : "STUMBLE GUYS",
+            "ico" : "https://scopely-website.s3.eu-west-2.amazonaws.com/_resized/7wM7yuLSsnEA24x6WyfZmdIEojWAi3Y7du6Izkb6-w1400-q75.webp",
+            "link" : "http://html5.gamedistribution.com/rvvASMiM/d52354c7f83e449a92b99ecd0d8bb23c/index.html?timestamp=1678328843&countryCode=en&siteid=79&channelid=2&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fwww.agame.com%2Fgame%2Fstumble-guy-match%23Fullscreen&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy5hZ2FtZS5jb20vZ2FtZS9zdHVtYmxlLWd1eS1tYXRjaCNmdWxsc2NyZWVuIiwicGFyZW50RG9tYWluIjoiYWdhbWUuY29tIiwidG9wRG9tYWluIjoidW5kZWZpbmVkIiwiaGFzSW1wcmVzc2lvbiI6dHJ1ZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xNiJ9",
             "cat" : "Arcade",
             "orientation" : "0"
         }
